@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-Currently learning Machine Learning and App Development 
+Currently learning Machine Learning and Web Development 
 
 
 ## 🌐 Socials:
