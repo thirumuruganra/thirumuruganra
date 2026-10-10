@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="thirumuruganra's GitHub profile" src="dark_mode.svg" />
+</picture>
+
 <!--
 **thirumuruganra/thirumuruganra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
